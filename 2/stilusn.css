@@ -1,0 +1,16 @@
+#kulso {
+    background-color: red;
+    position: fixed;
+    padding: 12cm;
+}
+#kozepso {
+    background-color: green;
+    padding: 8cm;
+    position: fixed;
+}
+
+#belso {
+    background-color: blue;
+    padding: 4cm;
+    position: fixed;
+}

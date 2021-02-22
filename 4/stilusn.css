@@ -1,0 +1,17 @@
+ul {
+    width: 50%;
+    height: 2cm;
+    padding: 1cm 0 0 0;
+    border: 20px;
+    border-style: dotted;
+    border-color: green;
+}
+
+li {
+    background-color: lightseagreen;
+    height: 1cm;
+    padding: 3mm;
+    margin: 0 17mm;
+    list-style: none;
+    float: left;
+}
